@@ -1,13 +1,13 @@
-Source: cbpp-wallpapers
+Source: oxyos-wallpapers
 Section: x11
 Priority: extra
-Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Maintainer: OxyHQ <contact@oxyhq.com>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
-Homepage: https://crunchbangplusplus.org
+Homepage: https://github.com/OxyHQ/OxyOS-wallpapers
 
-Package: cbpp-wallpapers
+Package: oxyos-wallpapers
 Architecture: all
 Depends: ${misc:Depends}
 Description: A selection of wallpapers
- Images for use as backgrounds with CrunchBangPlusPlus.
+ Images for use as backgrounds with OxyOS.
