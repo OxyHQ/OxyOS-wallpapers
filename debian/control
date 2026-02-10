@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: OxyHQ <admin@oxy.so>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
-Homepage: https://github.com/OxyHQ/OxyOS-wallpapers
+Homepage: https://os.oxy.so
 
 Package: oxyos-wallpapers
 Architecture: all
