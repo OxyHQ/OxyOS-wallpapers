@@ -1,6 +1,6 @@
 # oxyos-wallpapers
 
-A selection of wallpapers for [OxyOS](https://os.oxy.so).
+A selection of wallpapers for [OxyOS](https://oxy.so/os).
 
 ---
-Part of [OxyOS](https://os.oxy.so) | [GitHub](https://github.com/OxyHQ)
+Part of [OxyOS](https://oxy.so/os) | [GitHub](https://github.com/OxyHQ)
